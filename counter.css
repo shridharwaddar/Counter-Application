@@ -1,0 +1,20 @@
+.mainblock{
+    border: solid 2px;
+    background-color: blue;
+    align-items: center;
+    padding: auto;
+
+}
+h1{
+    align-items: center;
+    color: aliceblue;
+}
+#bt1{
+    background-color: yellow;
+}
+#bt2{
+    background-color: goldenrod;
+}
+#bt3{
+    background-color: red;
+}
